@@ -1,2 +1,6 @@
-# Web-atividdde
-Sobre o projeto Este projeto consiste em um site sobre Arquitetura, desenvolvido como atividade de recuperação.  O objetivo é apresentar informações relacionadas à arquitetura de forma simples, organizada e visualmente agradável, utilizando tecnologias modernas de desenvolvimento web.
+# Atividade de Recuperação
+## Sobre o projeto 
+Este projeto consiste em um site sobre Arquitetura, desenvolvido como atividade de recuperação.  O objetivo é apresentar informações relacionadas à arquitetura de forma simples e organizada.
+##Integrantes
+- **Item 1:** Flavio Gabriel
+- **Item 2:** Emanuelly Aparecida
