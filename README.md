@@ -4,3 +4,4 @@ Este projeto consiste em um site sobre Arquitetura, desenvolvido como atividade 
 ##Integrantes
 - Flavio Gabriel
 - Emanuelly Aparecida
+
